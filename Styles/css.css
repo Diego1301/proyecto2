@@ -1,0 +1,147 @@
+*{
+  margin: : 0;
+  padding: 0;
+
+}
+section{
+  width: 970px;
+  height: 1309px;
+  margin: 60px 80px;
+  background-color: #81F7F3;
+  display: table;
+}
+.art1{
+  width: 900px;
+  height: 600px;
+  margin: 10px 30px 20px 40px;
+  background-color: green;
+  display: inline-block;
+}
+.art2{
+  width: 900px;
+  height: 300px;
+  margin: 20px 60px 10px 30px;
+  background-color: red;
+  display: table;
+}
+.art3{
+  width: 900px;
+  height: 300px;
+  margin: 20px 30px 40px 30px;
+  background-color: blue;
+  display: table;
+}
+.sect1{
+  width: 895px;
+  height: 950px;
+  margin: 60px 80px;
+  background-color: black;
+  display: table;
+}
+.arti1 {
+  width: 835px;
+  height: 260px;
+  margin: 10px 30px 20px 40px;
+  background-color: gray;
+  display: table;
+}
+.arti1 nav{
+  width: 800px;
+  height:100px;
+  display: table;
+
+}
+.nav1{
+  margin: 30px 15px 20px 20px;
+  background-color: yellow;
+  display: table;
+}
+.nav2{
+  margin: 0px 15px 10px 20px;
+  background-color: red;
+  display: table;
+}
+.arti2 {
+  width: 835px;
+  height: 350px;
+  margin: 0px 30px 20px 30px;
+  background-color: yellow;
+  display: table;
+}
+.nav3{
+  width: 800px;
+  height: 300px;
+  margin: 30px 25px 20px 10px;
+  background-color: #0174DF;
+  display: table;
+}
+.arti3{
+  width: 835px;
+  height: 250px;
+  margin: 10px 30px 40px 30px;
+  background-color:white;
+  display: table;
+}
+.sect2{
+  width: 980px;
+  height: 830px;
+  margin: 40px 30px;
+  background-color: #81F7BE;
+  display: table;
+}
+.artis1{
+  width: 900px;
+  height: 300px;
+  margin: 40px 10px 40px 30px;
+  background-color: #2E64FE;
+  display: table;
+}
+.artis2{
+  width: 900px;
+  height: 240px;
+  margin: 30px 50px 40px 30px;
+  background-color: #FFBF00;
+  display: table;
+}
+.nav4{
+  width: 850px;
+  height: 100px;
+  margin:10px 15px 20px 15px;
+  background-color: #00FF00;
+  display: table;
+}
+.nav5{
+  width: 850px;
+  height: 100px;
+  margin:20px 15px 10px 15px;
+  background-color: #0040FF;
+  display: table;
+}
+.artis3{
+  width: 900px;
+  height: 200px;
+  margin: 0px 30px 10px 40px;
+  background-color: #F17500;
+  display: table;
+}
+.nav6{
+  width: 860px;
+  height: 140px;
+  margin:30px 10px 30px 30px;
+  background-color: #FA58D0;
+  display: table;
+}
+.nav7{
+  width: 820px;
+  height: 100px;
+  margin:20px;
+  background-color: #FA8258;
+  display: table;
+}
+.nav8{
+  width: 780px;
+  height: 80px;
+  margin:20px 10px 20px 10px;
+  background-color: #DF013A;
+  display: table;
+}
